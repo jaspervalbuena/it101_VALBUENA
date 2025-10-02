@@ -2,7 +2,7 @@
 <!DOCTYPEhtml>
 <html>
   <head>
-     <aray ko>HELLO PAGE</aray ko>
+     <h1>aray ko>HELLO PAGE</aray ko</h1>
   </head>
   <body>
      <p> Hello World !!</p>
